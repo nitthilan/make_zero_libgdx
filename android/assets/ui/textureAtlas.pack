@@ -1,0 +1,159 @@
+
+textureAtlas.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+gold_star
+  rotate: false
+  xy: 1, 101
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+btn_white_matte
+  rotate: false
+  xy: 1, 51
+  size: 46, 48
+  split: 11, 34, 4, 4
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+btn_red_matte
+  rotate: false
+  xy: 403, 453
+  size: 46, 48
+  split: 11, 34, 4, 4
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+btn_pink_matte
+  rotate: false
+  xy: 1, 1
+  size: 46, 48
+  split: 11, 34, 4, 4
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+btn_orange_matte
+  rotate: false
+  xy: 49, 51
+  size: 46, 48
+  split: 11, 34, 4, 4
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+btn_green_matte
+  rotate: false
+  xy: 403, 403
+  size: 46, 48
+  split: 11, 34, 4, 4
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+btn_blue_matte
+  rotate: false
+  xy: 451, 453
+  size: 46, 48
+  split: 11, 34, 4, 4
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+btn_black
+  rotate: false
+  xy: 49, 1
+  size: 46, 48
+  split: 12, 33, 5, 4
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+btn_black_burn
+  rotate: false
+  xy: 97, 51
+  size: 46, 48
+  split: 12, 33, 5, 4
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+btn_blue_matte_burn
+  rotate: false
+  xy: 403, 353
+  size: 46, 48
+  split: 11, 34, 4, 4
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+btn_green_matte_burn
+  rotate: false
+  xy: 451, 403
+  size: 46, 48
+  split: 11, 34, 4, 4
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+btn_orange_matte_burn
+  rotate: false
+  xy: 97, 1
+  size: 46, 48
+  split: 11, 34, 4, 4
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+btn_pink_matte_burn
+  rotate: false
+  xy: 145, 51
+  size: 46, 48
+  split: 11, 34, 4, 4
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+btn_red_matte_burn
+  rotate: false
+  xy: 403, 303
+  size: 46, 48
+  split: 11, 34, 4, 4
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+btn_white_matte_burn
+  rotate: false
+  xy: 451, 353
+  size: 46, 48
+  split: 11, 34, 4, 4
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+white
+  rotate: false
+  xy: 145, 33
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+black_transparent
+  rotate: false
+  xy: 193, 83
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+smoke_f5f5f5
+  rotate: false
+  xy: 403, 285
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+blue_transparent
+  rotate: false
+  xy: 451, 335
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+blue
+  rotate: false
+  xy: 145, 15
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,117 @@
+
+buttonAtlas.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+btn_white_matte_burn
+  rotate: false
+  xy: 1, 1
+  size: 46, 48
+  split: 11, 34, 4, 4
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+btn_black
+  rotate: false
+  xy: 49, 1
+  size: 46, 48
+  split: 12, 33, 5, 4
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+btn_black_burn
+  rotate: false
+  xy: 97, 1
+  size: 46, 48
+  split: 12, 33, 5, 4
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+btn_blue_matte
+  rotate: false
+  xy: 145, 1
+  size: 46, 48
+  split: 11, 34, 4, 4
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+btn_blue_matte_burn
+  rotate: false
+  xy: 193, 1
+  size: 46, 48
+  split: 11, 34, 4, 4
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+btn_green_matte
+  rotate: false
+  xy: 241, 1
+  size: 46, 48
+  split: 11, 34, 4, 4
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+btn_green_matte_burn
+  rotate: false
+  xy: 289, 1
+  size: 46, 48
+  split: 11, 34, 4, 4
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+btn_orange_matte
+  rotate: false
+  xy: 337, 1
+  size: 46, 48
+  split: 11, 34, 4, 4
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+btn_orange_matte_burn
+  rotate: false
+  xy: 385, 1
+  size: 46, 48
+  split: 11, 34, 4, 4
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+btn_pink_matte
+  rotate: false
+  xy: 433, 1
+  size: 46, 48
+  split: 11, 34, 4, 4
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+btn_pink_matte_bur
+  rotate: false
+  xy: 481, 1
+  size: 46, 48
+  split: 11, 34, 4, 4
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+btn_red_matte
+  rotate: false
+  xy: 529, 1
+  size: 46, 48
+  split: 11, 34, 4, 4
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+btn_red_matte_burn
+  rotate: false
+  xy: 577, 1
+  size: 46, 48
+  split: 11, 34, 4, 4
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+btn_white_matte
+  rotate: false
+  xy: 625, 1
+  size: 46, 48
+  split: 11, 34, 4, 4
+  orig: 46, 48
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,45 @@
+{
+	"com.badlogic.gdx.graphics.Color":{
+		"white" : {"r" : 1, "g" : 1, "b" : 1, "a" : 1},
+		"black" : {"r" : 0, "g" : 0, "b" : 0, "a" : 1},
+		"blue"  : {"r" : 0, "g" : 0, "b" : 1, "a" : 1},
+		"red"   : {"r" : 1, "g" : 0, "b" : 0, "a" : 1},
+		"green" : {"r" : 0, "g" : 1, "b" : 0, "a" : 1}
+	},
+	"com.badlogic.gdx.graphics.g2d.BitmapFont":{
+		"black_small" : { "file" : "fonts/roboto_black_font_black_16.fnt" },
+		"black_normal" : { "file" : "fonts/roboto_black_font_black_32.fnt" },
+		"black_large" : { "file" : "fonts/roboto_black_font_black_64.fnt" },
+		"white_small" : { "file" : "fonts/roboto_black_font_white_16.fnt" },
+		"white_normal" : { "file" : "fonts/roboto_black_font_white_32.fnt" },
+		"white_large" : { "file" : "fonts/roboto_black_font_white_64.fnt" },
+	},
+	"com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle":{ 
+		"large":{	"font" : "black_large", "fontColor" : "black"	},
+		"normal":{	"font" : "black_normal", "fontColor" : "black"	},
+		"small":{	"font" : "black_small", "fontColor" : "black"	}
+	},
+	"com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle":{
+		"large_green":{"up" : "btn_green_matte", "down" : "btn_green_matte_burn", "font" : white_large, "pressedOffsetX" : 1, "pressedOffsetY" : -1},
+		"normal_green":{"up" : "btn_green_matte", "down" : "btn_green_matte_burn", "font" : white_normal, "pressedOffsetX" : 1, "pressedOffsetY" : -1},
+		"small_green":{"up" : "btn_green_matte", "down" : "btn_green_matte_burn", "font" : white_small, "pressedOffsetX" : 1, "pressedOffsetY" : -1},
+		"large_blue":{"up" : "btn_blue_matte", "down" : "btn_blue_matte_burn", "font" : white_large, "pressedOffsetX" : 1, "pressedOffsetY" : -1},
+		"normal_blue":{"up" : "btn_blue_matte", "down" : "btn_blue_matte_burn", "font" : white_normal, "pressedOffsetX" : 1, "pressedOffsetY" : -1},
+		"small_blue":{"up" : "btn_blue_matte", "down" : "btn_blue_matte_burn", "font" : white_small, "pressedOffsetX" : 1, "pressedOffsetY" : -1},
+		"large_black":{"up" : "btn_black", "down" : "btn_black_burn", "font" : white_large, "pressedOffsetX" : 1, "pressedOffsetY" : -1},
+		"normal_black":{"up" : "btn_black", "down" : "btn_black_burn", "font" : white_normal, "pressedOffsetX" : 1, "pressedOffsetY" : -1},
+		"small_black":{"up" : "btn_black", "down" : "btn_black_burn", "font" : white_small, "pressedOffsetX" : 1, "pressedOffsetY" : -1},
+		"large_orange":{"up" : "btn_orange_matte", "down" : "btn_orange_matte_burn", "font" : white_large, "pressedOffsetX" : 1, "pressedOffsetY" : -1},
+		"normal_orange":{"up" : "btn_orange_matte", "down" : "btn_orange_matte_burn", "font" : white_normal, "pressedOffsetX" : 1, "pressedOffsetY" : -1},
+		"small_orange":{"up" : "btn_orange_matte", "down" : "btn_orange_matte_burn", "font" : white_small, "pressedOffsetX" : 1, "pressedOffsetY" : -1},	
+		"large_pink":{"up" : "btn_pink_matte", "down" : "btn_pink_matte_burn", "font" : white_large, "pressedOffsetX" : 1, "pressedOffsetY" : -1},
+		"normal_pink":{"up" : "btn_pink_matte", "down" : "btn_pink_matte_burn", "font" : white_normal, "pressedOffsetX" : 1, "pressedOffsetY" : -1},
+		"small_pink":{"up" : "btn_pink_matte", "down" : "btn_pink_matte_burn", "font" : white_small, "pressedOffsetX" : 1, "pressedOffsetY" : -1},	
+		"large_red":{"up" : "btn_red_matte", "down" : "btn_red_matte_burn", "font" : white_large, "pressedOffsetX" : 1, "pressedOffsetY" : -1},
+		"normal_red":{"up" : "btn_red_matte", "down" : "btn_red_matte_burn", "font" : white_normal, "pressedOffsetX" : 1, "pressedOffsetY" : -1},
+		"small_red":{"up" : "btn_red_matte", "down" : "btn_red_matte_burn", "font" : white_small, "pressedOffsetX" : 1, "pressedOffsetY" : -1},
+		"large_blue_plain":{"up" : "blue", "down" : "blue", "font" : white_large, "pressedOffsetX" : 1, "pressedOffsetY" : -1},
+		"normal_blue_plain":{"up" : "blue", "down" : "blue", "font" : white_normal, "pressedOffsetX" : 1, "pressedOffsetY" : -1},
+		"small_blue_plain":{"up" : "blue", "down" : "blue", "font" : white_small, "pressedOffsetX" : 1, "pressedOffsetY" : -1},		
+	}
+}
